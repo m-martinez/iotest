@@ -2,6 +2,7 @@
 Installation
 ============
 
+::
   virtualenv ./env
   cd ./env
   source bin/activate
