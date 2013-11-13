@@ -1,5 +1,11 @@
+iotest
+======
+
+This is a sample gevent-socketio application that uses redis.
+
+
 Installation
-============
+------------
 
 ::
 
