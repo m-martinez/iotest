@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:tal="http://xml.zope.org/namespaces/tal">
+<head>
+  <title>The Pyramid Web Application Development Framework</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+</head>
+<body>
+  <p><a href="/">Index</a></p>
+  <h1>This is Other</h1>
+
+  <input type="text" id="output" />
+
+  <script type="text/javascript" src="${request.static_path('iotest:static/jquery.min.js')}"> </script>
+  <script type="text/javascript" src="${request.static_path('iotest:static/socket.io.min.js')}"> </script>
+  <script type="text/javascript" src="${request.static_path('iotest:static/main.js')}"> </script>
+</body>
+</html>

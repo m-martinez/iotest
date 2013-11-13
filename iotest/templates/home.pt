@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:tal="http://xml.zope.org/namespaces/tal">
+<head>
+  <title>The Pyramid Web Application Development Framework</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+</head>
+<body>
+<p><a href="/other">Other</a></p>
+<h1>This is Home</h1>
+</body>
+</html>
